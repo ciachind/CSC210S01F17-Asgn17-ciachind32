@@ -8,12 +8,12 @@ public class Questions {
     };
 
     private String mChoices[][] = {
-            {"Time", "Satisfaction", "ActualAnswer", "Thriller"}
+            {"Time", "Satisfaction", "KnockOut", "Thriller"}
 
     };
 
     private String mCorrectAnswer[] = {
-            "ActualAnswer"
+            "KnockOut"
     };
 
     public String getQuestion(int a){
